@@ -16,6 +16,8 @@ We're going to do stuff over this site called GirthHub. Go to [http://github.com
 * What are the origins of CSS and the Internet? How did it come to be?
 * How do I do a pool request?
 * (For Jenn) Why are ventrilaquists so creepy?
+* My GitHub history shows that I forked and contributed to a repo called 'Ask-CSS-Perverts'. Will I still be able to find a job?
+* What if this question gets accidently deleted while resolving a merge conflict?
 
 ### Need more info?
 
