@@ -20,6 +20,7 @@ We're going to do stuff over this site called GirthHub. Go to [http://github.com
 * Some say the biggest lie in tech is "That's Phase II." Is there a bigger one?
 * What is a PR?
 * Are you a cop?
+* Can you explain to the world what CASCADING means ? And why respect a maximum nidification of 3 elements is really important (especially in sass world)
 
 ### Need more info?
 
