@@ -21,6 +21,7 @@ We're going to do stuff over this site called GirthHub. Go to [http://github.com
 * What is a PR?
 * Are you a cop?
 * How many javascripts should I use for a small proejct?
+* ![halp](http://i.imgur.com/GgvLwHV.gif)
 
 ### Need more info?
 
