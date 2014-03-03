@@ -27,6 +27,7 @@ We're going to do stuff over this site called GirthHub. Go to [http://github.com
 * Why would you do your Q&A in markdown and not a real programming language like HTML?
 * My GitHub history shows that I forked and contributed to a repo called 'Ask-CSS-Perverts'. Will I still be able to find a job?
 * What if this question gets accidently deleted while resolving a merge conflict?
+* Have you met NBA "stars" and, if so, do they know how to create box-shadows?
 
 ### Need more info?
 
