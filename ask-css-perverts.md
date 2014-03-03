@@ -30,6 +30,7 @@ We're going to do stuff over this site called GirthHub. Go to [http://github.com
 * Have you met NBA "stars" and, if so, do they know how to create box-shadows?
 * How do I bubble sort in CSS?
 * Is ignoring your closing semicolon in California Style Sheets kinda like a California Stop?
+* has anyone really been far even as decided to use even grunt go want to do look more like?
 
 ### Need more info?
 
