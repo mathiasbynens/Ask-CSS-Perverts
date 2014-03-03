@@ -13,6 +13,7 @@ We're going to do stuff over this site called GirthHub. Go to [http://github.com
 
 * Here is an example question that's not a question. Add your question below this one and submit a PR. Don't replace this one because duh.
 * What are the origins of CSS and the Internet? How did it come to be?
+
 * How do I do a pool request?
 * (For Jenn) Why are ventrilaquists so creepy?
 * (For Nick) How dare u
@@ -23,6 +24,7 @@ We're going to do stuff over this site called GirthHub. Go to [http://github.com
 * How many javascripts should I use for a small proejct?
 * How much wood could a woodchuck chuck if a woodchuck could chuck wood?
 * ![halp](http://i.imgur.com/GgvLwHV.gif)
+* Why would you do your Q&A in markdown and not a real programming language like HTML?
 
 ### Need more info?
 
