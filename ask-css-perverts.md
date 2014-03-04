@@ -33,6 +33,7 @@ We're going to do stuff over this site called GirthHub. Go to [http://github.com
 * has anyone really been far even as decided to use even grunt go want to do look more like?
 * Can you explain to the world what CASCADING means ? And why respect a maximum nidification of 3 elements is really important (especially in sass world)
 * i'm starting to like `wget` less and less for casual browsing. what other internet providers would you recommend?
+* In respect to new Node web 2.6+ Best Praxis I am sending all my ajax over websockets now.  is there any reason to still be ajax http lib in 2014? #node
 
 ### Need more info?
 
